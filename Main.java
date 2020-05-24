@@ -1,8 +1,7 @@
 //August Ho
-//Aufgabe 2
 
-package de.uni_hannover.hci.aufgabe2;
-import de.uni_hannover.hci.aufgabe2.sudoku.*;
+package sudoku;
+import SudokuField.*;
 import java.util.Scanner;
 
 public class Main{
