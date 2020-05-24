@@ -1,7 +1,6 @@
 //August Ho
-//Aufgabe 2
 
-package de.uni_hannover.hci.aufgabe2.sudoku;
+package sudoku.SudokuField;
 /**
 * This class is for creating a sudoku field with a variety of methods.
 * This class is set to public as it is needed from the Main.java file,
