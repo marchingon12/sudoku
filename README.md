@@ -1,6 +1,5 @@
-# sudoku
-sudoku made for uni
-
+# terminal sudoku
+sudoku made for boredom
 
 Modes: mark, unmark, viewmark and enter.
 - mark places a hidden number where you want to place a number inside a cell
