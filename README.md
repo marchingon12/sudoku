@@ -1,5 +1,5 @@
-# terminal sudoku
-sudoku made for boredom
+# Terminal Sudoku
+Sudoku for an assignment from my University's Java Programming Course.
 
 Modes: mark, unmark, viewmark and enter.
 - mark places a hidden number where you want to place a number inside a cell
